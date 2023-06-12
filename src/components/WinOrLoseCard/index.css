@@ -1,0 +1,45 @@
+/* Write your code here. */
+.win-lose-card {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.details-section {
+  display: flex;
+  flex-direction: column;
+  height: 50vh;
+  width: 30vw;
+  border: 1px solid #ffffff;
+  background-color: #9796f0;
+  border-radius: 10px;
+}
+.game-status {
+  font-size: 30px;
+  font-weight: 600;
+  color: #ffffff;
+}
+.current-label {
+  color: #ffffff;
+  font-size: 20px;
+}
+.current-value {
+  color: #6a59ff;
+  font-size: 20px;
+  font-weight: 500;
+}
+.btn {
+  background-color: #ffce27;
+  border-radius: 10px;
+  border: none;
+  color: #ffffff;
+  width: 60px;
+}
+.image-con {
+  display: flex;
+  flex-direction: row;
+}
+.image-logo {
+  width: 10vw;
+  height: 20vh;
+}

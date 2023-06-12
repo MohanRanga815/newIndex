@@ -1,0 +1,33 @@
+/* Write your code here. */
+.navbar-con {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.title-container {
+  display: flex;
+}
+.logo-con {
+  display: flex;
+}
+.emoji-logo {
+  width: 60px;
+  height: 60px;
+}
+.title {
+  color: #ffffff;
+  font-size: 24px;
+  font-weight: 600;
+}
+.score-con {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 800px;
+}
+.score {
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 500;
+  margin-left: 30px;
+  margin-top: 30px;
+}

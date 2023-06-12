@@ -1,0 +1,13 @@
+/* Write your code here. */
+.app-container {
+  background-image: linear-gradient(to bottom, #9796f0, #fbc7d4);
+  height: 100vh;
+  display: flex;
+  overflow: auto;
+  flex-direction: column;
+}
+.emoji-body {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
